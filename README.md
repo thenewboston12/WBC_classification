@@ -1,8 +1,8 @@
-# CSCI 494 Deep Learning project source code 
+# White Blood Cell classification using CNN
 Contributors: 
-*Didar Mamyrov
-*Yermakhan Magzym
+* Yermakhan Magzym
+* Didar Mamyrov
 
-Please run the models on Kaggle environment adding https://www.kaggle.com/datasets/paultimothymooney/blood-cells as data source.
+Please run the models on Kaggle environment using https://www.kaggle.com/datasets/paultimothymooney/blood-cells as data source.
 
 
